@@ -1,4 +1,5 @@
 import streamlit as st
+import matplotlib
 import matplotlib.pyplot as plt
 from ramachandraw.parser import get_phi_psi
 from ramachandraw.utils import fetch_pdb 
